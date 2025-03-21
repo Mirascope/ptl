@@ -1,12 +1,6 @@
----
-description: >-
-  A standardized interface for writing and defining prompt templates that render
-  as messages.
----
-
 # Prompt Templating Language (PTL)
 
-This repository defines a standardized interface for defining prompt templates.
+> A standardized interface for writing and defining prompt templates that render as messages.
 
 To think of a prompt template as a string is incorrect. The template defines a model-agnostic method through which you produce all the information necessary to get a response from an LLM.
 
